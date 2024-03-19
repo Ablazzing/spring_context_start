@@ -1,4 +1,4 @@
-package org.example.storage;
+package org.example.lesson1.storage;
 
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,4 @@
-package org.example.cafe;
-
-import org.springframework.stereotype.Component;
+package org.example.lesson1.cafe;
 
 public class Cafe {
     private Cook cook;

@@ -1,6 +1,5 @@
-package org.example.storage;
+package org.example.lesson1.storage;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 

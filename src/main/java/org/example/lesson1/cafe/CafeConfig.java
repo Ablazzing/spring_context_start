@@ -1,4 +1,4 @@
-package org.example.cafe;
+package org.example.lesson1.cafe;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
